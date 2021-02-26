@@ -1,2 +1,0 @@
-# supermall
-a vue demo
